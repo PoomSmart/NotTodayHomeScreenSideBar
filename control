@@ -1,0 +1,11 @@
+Package: com.ps.nottodayhomescreensidebar
+Name: NotTodayHomeScreenSideBar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Prevent Today View sidebar from being pinned on iPad homescreen.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 15.0)
+Depiction: https://poomsmart.github.io/repo/depictions/nottodayhomescreensidebar.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/nottodayhomescreensidebar.json
